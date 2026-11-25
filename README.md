@@ -34,7 +34,8 @@ The front page is drawn, not photographed: six lead panels with hand-drawn
 scenes (Shenzhou-24 on the pad, burning Odesa block, flooded mine rescue,
 Iowa blast countdown, Parliament House with the apology banner, courtroom
 scales), 24 brief cards, an eight-region colour key, a UTC timeline strip,
-a world pin map, and a date footer. Every story was checked against a report
+a world pin map, and a date footer. The map pins mark the six lead
+locations; the timeline strip follows the day in UTC. Every story was checked against a report
 dated Wednesday 25 November 2026 before it made the page — a story counts
 only if it happened or was first reported on that Wednesday; Tuesday's news,
 however widely republished on Wednesday, was left out. Items still to come
